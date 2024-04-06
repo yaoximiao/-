@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Tooltip</title>
+    <style>
+        /* 样式可以根据需求自定义 */
+        .tooltip {
+            display: none;
+            position: absolute;
+            background-color: #333;
+            color: #fff;
+            padding: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button id="myButton">Hover Me</button>
+    <div id="tooltip" class="tooltip">Your tooltip message</div>
+
+    <script>
+        const button = document.getElementById('myButton');
+        const tooltip = document.getElementById('tooltip');
+
+        let timer;
+
+        button.addEventListener('mouseover', () => {
+            // 鼠标悬停时设置一个延时定时器
+            timer = setTimeout(() => {
+                // 显示提示信息
+                tooltip.style.display = 'block';
+            }, 1000); // 1000毫秒（1秒）后显示提示信息
+        });
+
+        button.addEventListener('mouseout', () => {
+            // 鼠标移出按钮时清除定时器和隐藏提示信息
+            clearTimeout(timer);
+            tooltip.style.display = 'none';
+        });
+    </script>
+</body>
+</html>
