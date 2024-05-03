@@ -1,0 +1,41 @@
+<html>
+<head>
+<meta charset="utf-8"> 
+<title>预测结果展示</title>
+<script src = "echarts.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.2.1/echarts.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.js"></script>
+<style>
+    .chart {
+      width: 600px;
+      height: 400px;
+    }
+    </style>
+</head>
+<body>
+    <h1>您的该项数据超过了目前%的用户</h1>//这里之后要调用数据的
+    <input type="file" id="output">
+    <div id="main" style="width: 600px;height:400px;"></div>
+    <script type = "text/javascript">
+        var myChart = echart.init(document.getElementById('main'));
+        $.get('这里是json文件的路径，后面记得加上去',function(data){
+            myChart.setOption({//这里记得使用加入用户数据之后的新数据集
+                xAxis:{
+                    type:'category',
+                    data:data.Name
+                },
+                yAxis:{
+                    type :'value'
+                },
+                series:[
+                {
+                    data:data.Nominal,
+                    type:'line'
+                }]
+            })
+        },'json')
+    </script>
+</body>
+</html>
