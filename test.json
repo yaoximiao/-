@@ -1,100 +1,23 @@
 {
-    "dataset": [
+    "data_pie": [
         {
-            "NAME": 1,
-            "Max_MHz": 3900
+            "value": 235,
+            "name": "视频广告"
         },
         {
-            "NAME": 2,
-            "Max_MHz": 4000
+            "value": 274,
+            "name": "联盟广告"
         },
         {
-            "NAME": 3,
-            "Max_MHz": 3400
+            "value": 310,
+            "name": "邮件营销"
         },
         {
-            "NAME": 4,
-            "Max_MHz": 4000
+            "value": 335,
+            "name": "直接访问"
         },
         {
-            "NAME": 5,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 6,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 7,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 8,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 9,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 10,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 11,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 12,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 13,
-            "Max_MHz": 3800
-        },
-        {
-            "NAME": 14,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 15,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 16,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 17,
-            "Max_MHz": 3900
-        },
-        {
-            "NAME": 18,
-            "Max_MHz": 4100
-        },
-        {
-            "NAME": 19,
-            "Max_MHz": 3800
-        },
-        {
-            "NAME": 20,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 21,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 22,
-            "Max_MHz": 4000
-        },
-        {
-            "NAME": 23,
-            "Max_MHz": 3900
-        },
-        {
-            "NAME": 24,
-            "Max_MHz": 3800
-        },
+            "value": 400,
+            "name": "搜索引擎"
+        }
     ]
-}
