@@ -1,28 +1,4002 @@
-{   
-    "dataset":[
-            {
-                "NAME": "Intel Xeon E-2276G",
-                "Max_MHz": 3900
-            },
-            {
-                "NAME": "AMD EPYC 7402",
-                "Max_MHz": 4000
-            },
-            {
-                "NAME": "AMD EPYC 7352",
-                "Max_MHz": 3400
-            },
-            {
-                "NAME": "AMD EPYC 7502",
-                "Max_MHz": 4000
-            },
-            {
-                "NAME": "Intel Xeon E-2278G",
-                "Max_MHz": 4100
-            },
-            {
-                "NAME": "Intel Xeon E-2286G",
-                "Max_MHz": 4100
-            }
-        ]
-}
+[
+    {
+        "name": "Intel Xeon E-2276G",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 7402",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7352",
+        "value": 3400
+    },
+    {
+        "name": "AMD EPYC 7502",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2278G",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2286G",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2274G",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7502P",
+        "value": 4100
+    },
+    {
+        "name": "AMD EPYC 7302P",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2288G",
+        "value": 4100
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7402P",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7542",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6252",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7702P",
+        "value": 4100
+    },
+    {
+        "name": "AMD EPYC 7702",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8260M",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8256",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6240M",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2136",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4215",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2124",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4208",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Bronze 3204",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5218B",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5215",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 1900
+    },
+    {
+        "name": "Intel Xeon Gold 6226",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5220",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8253",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6246",
+        "value": 1900
+    },
+    {
+        "name": "Intel Xeon Gold 6238T",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6244",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2124",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Silver 4116",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8276M",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Gold 5217",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2136",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6132",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6140",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5115",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Silver 4114",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5120",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8153",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6146",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6134",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6126",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6138",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6130T",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6136",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6128",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6150",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6154",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6144",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8176",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8176",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3200
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "value": 4000
+    },
+    {
+        "name": "AMD Ryzen 7 5800X",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6150",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4416+",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6426Y",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6434H",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4410T",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 5416S",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6434H",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 6438Y+",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5418Y",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8462Y+",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6448Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6438Y+",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5411N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5418N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5418N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5411N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6438Y+",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6421N",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 5420+",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4410Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5415+",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6442Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5411N",
+        "value": 1900
+    },
+    {
+        "name": "Intel Xeon Gold 5418N",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6414U",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6434H",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6414U",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6428N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6428N",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6414U",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6428N",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Bronze 3408U",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Bronze 3408U",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8471N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6454S",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6438M",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6454S",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Bronze 3408U",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Platinum 8471N",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6454S",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8471N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Platinum 8470N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6438M",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6434",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6434",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6438N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6438M",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Platinum 8470N",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6438N",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8470N",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6438N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6434H",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6434H",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6421N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5416S",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5416S",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6426Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 6421N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6426Y",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4410T",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4416+",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Silver 4410T",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4416+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8452Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8452Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8462Y+",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6448Y",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6448Y",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8462Y+",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6434",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 5420+",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8468V",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8452Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5420+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Platinum 8450H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8450H",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6442Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8460Y+",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8458P",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8460H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8460H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8461V",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8468V",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8468V",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8461V",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8461V",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8468",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Platinum 8468",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8468H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8470",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6442Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8460Y+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8460H",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8468",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4410Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5415+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8458P",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5415+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8450H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8468H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8460Y+",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8460H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8470",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8458P",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8450H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4410Y",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8468H",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6430",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8470",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6430",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6430",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5418Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6328H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5418Y",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8352V",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6328H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8352V",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6348H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8352V",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8352S",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8358",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8362",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8362",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8362",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8376H",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Platinum 8360H",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8358P",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8380H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6330H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6328HL",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8358",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8358",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8358",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6346",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8352Y",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8358P",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8358P",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5318S",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5318S",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6348H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5318S",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6312U",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6312U",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6312U",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8358P",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Platinum 8351N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8351N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8351N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8354H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6314U",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6314U",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6338T",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8276L",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6338T",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6314U",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6338T",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5317",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5317",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5317",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8260",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8260",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8260",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Gold 5320T",
+        "value": 5700
+    },
+    {
+        "name": "Intel Xeon Gold 5320T",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5320T",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8352S",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8352S",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8352S",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5318N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5318N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5318N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6346",
+        "value": 4400
+    },
+    {
+        "name": "Intel Xeon Gold 6346",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6346",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5315Y",
+        "value": 3675
+    },
+    {
+        "name": "Intel Xeon Gold 5315Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4310T",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4310T",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5315Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4310T",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5318H",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 5320H",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 4150
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8276L",
+        "value": 3650
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Platinum 8276L",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8276L",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8352Y",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8352Y",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6230R",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Gold 6230R",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Platinum 8352Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6230R",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6334",
+        "value": 3650
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6334",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6334",
+        "value": 3350
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 5100
+    },
+    {
+        "name": "Intel Xeon Platinum 8376HL",
+        "value": 5000
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3450
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Platinum 8276L",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6312U",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 9684X",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 4200
+    },
+    {
+        "name": "AMD EPYC 9684X",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 8534P",
+        "value": 3300
+    },
+    {
+        "name": "AMD EPYC 8534PN",
+        "value": 3300
+    },
+    {
+        "name": "AMD EPYC 9684X",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon E-2388G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Max 9480",
+        "value": 4300
+    },
+    {
+        "name": "AMD EPYC 9754",
+        "value": 4200
+    },
+    {
+        "name": "AMD EPYC 9224",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 9754",
+        "value": 4100
+    },
+    {
+        "name": "AMD Ryzen 9 7950X",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 4100
+    },
+    {
+        "name": "AMD EPYC 7543",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 9354P",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 9174F",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 9454P",
+        "value": 3350
+    },
+    {
+        "name": "AMD EPYC 7713P",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7413",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3350
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6434",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7313",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6426Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8490H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6418H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6348H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 9254",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 7513",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7302",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7413",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7373X",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7473X",
+        "value": 3400
+    },
+    {
+        "name": "AMD EPYC 7773X",
+        "value": 3400
+    },
+    {
+        "name": "AMD EPYC 7473X",
+        "value": 3350
+    },
+    {
+        "name": "AMD EPYC 7773X",
+        "value": 3350
+    },
+    {
+        "name": "AMD EPYC 7573X",
+        "value": 3350
+    },
+    {
+        "name": "AMD EPYC 7373X",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2378G",
+        "value": 3350
+    },
+    {
+        "name": "Intel Xeon E-2378G",
+        "value": 5000
+    },
+    {
+        "name": "AMD EPYC 7473X",
+        "value": 5000
+    },
+    {
+        "name": "Intel Xeon Platinum 8376HL",
+        "value": 4900
+    },
+    {
+        "name": "AMD EPYC 7543",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Platinum 8376H",
+        "value": 5000
+    },
+    {
+        "name": "AMD EPYC 7513",
+        "value": 2900
+    },
+    {
+        "name": "AMD EPYC 7313",
+        "value": 5000
+    },
+    {
+        "name": "AMD EPYC 7313P",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7313P",
+        "value": 5000
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7313P",
+        "value": 4600
+    },
+    {
+        "name": "Intel Xeon E-2378G",
+        "value": 3800
+    },
+    {
+        "name": "AMD EPYC 7702",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7313P",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2378G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2388G",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon E-2356G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8376H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 4500
+    },
+    {
+        "name": "AMD EPYC 7453",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 4500
+    },
+    {
+        "name": "AMD Ryzen Threadripper PRO 3955WX",
+        "value": 4300
+    },
+    {
+        "name": "AMD Ryzen Threadripper PRO 3945WX",
+        "value": 3900
+    },
+    {
+        "name": "AMD Ryzen Threadripper PRO 3975WX",
+        "value": 3900
+    },
+    {
+        "name": "AMD Ryzen Threadripper PRO 3995WX",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Platinum 8368Q",
+        "value": 4500
+    },
+    {
+        "name": "AMD EPYC 7H12",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Gold 6240L",
+        "value": 4500
+    },
+    {
+        "name": "AMD EPYC 7H12",
+        "value": 4500
+    },
+    {
+        "name": "AMD EPYC 7H12",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8380HL",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7282",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6348H",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8380H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6242R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4215R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5220R",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7F72",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6242R",
+        "value": 3800
+    },
+    {
+        "name": "AMD EPYC 7642",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7662",
+        "value": 1900
+    },
+    {
+        "name": "AMD EPYC 7F32",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7502",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7F52",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7F72",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7F52",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 7402",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6240R",
+        "value": 2900
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6230R",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7302",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7F32",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 2900
+    },
+    {
+        "name": "Intel Xeon Gold 5220R",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7F72",
+        "value": 4400
+    },
+    {
+        "name": "AMD EPYC 7F32",
+        "value": 4400
+    },
+    {
+        "name": "AMD EPYC 7F52",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7F32",
+        "value": 3800
+    },
+    {
+        "name": "AMD EPYC 7F52",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7252",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7F72",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 7282",
+        "value": 4400
+    },
+    {
+        "name": "AMD EPYC 7352",
+        "value": 3100
+    },
+    {
+        "name": "AMD EPYC 7282",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7282",
+        "value": 4000
+    },
+    {
+        "name": "AMD EPYC 7262",
+        "value": 4600
+    },
+    {
+        "name": "AMD EPYC 7452",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7262",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2226G",
+        "value": 5000
+    },
+    {
+        "name": "AMD EPYC 7702",
+        "value": 4900
+    },
+    {
+        "name": "AMD EPYC 7452",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2288G",
+        "value": 3600
+    },
+    {
+        "name": "AMD EPYC 7452",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon E-2288G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2226G",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2286G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2278G",
+        "value": 3200
+    },
+    {
+        "name": "Intel Celeron G4900",
+        "value": 3700
+    },
+    {
+        "name": "Intel Celeron G4900T",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2288G",
+        "value": 3200
+    },
+    {
+        "name": "Intel Pentium Gold G5500T",
+        "value": 3600
+    },
+    {
+        "name": "Intel Pentium Gold G5500",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon E-2288G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Celeron G4920",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon W-2295",
+        "value": 3200
+    },
+    {
+        "name": "Intel Pentium Gold G5600",
+        "value": 3700
+    },
+    {
+        "name": "Intel Core i3-8350K",
+        "value": 3000
+    },
+    {
+        "name": "Intel Pentium Gold G5400",
+        "value": 3200
+    },
+    {
+        "name": "Intel Core i3-8300T",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 4700
+    },
+    {
+        "name": "Intel Core i3-8100T",
+        "value": 4700
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "value": 3200
+    },
+    {
+        "name": "Intel Core i3-8300",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2136",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2124",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2136",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 4700
+    },
+    {
+        "name": "Intel Core i3-8350K",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 4700
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon E-2124",
+        "value": 3200
+    },
+    {
+        "name": "Intel Core i3-8300T",
+        "value": 4500
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "value": 3000
+    },
+    {
+        "name": "Intel Core i3-8300",
+        "value": 3000
+    },
+    {
+        "name": "Intel Core i3-8100T",
+        "value": 3000
+    },
+    {
+        "name": "Intel Pentium Gold G5500T",
+        "value": 3000
+    },
+    {
+        "name": "Intel Pentium Gold G5600",
+        "value": 2900
+    },
+    {
+        "name": "Intel Pentium Gold G5400",
+        "value": 3200
+    },
+    {
+        "name": "Intel Pentium Gold G5400T",
+        "value": 4700
+    },
+    {
+        "name": "Intel Pentium Gold G5500",
+        "value": 3000
+    },
+    {
+        "name": "Intel Celeron G4920",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Platinum 8280",
+        "value": 3000
+    },
+    {
+        "name": "Intel Celeron G4900",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Bronze 3204",
+        "value": 4200
+    },
+    {
+        "name": "Intel Celeron G4900T",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 5220",
+        "value": 3200
+    },
+    {
+        "name": "Intel Celeron G4900",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6138T",
+        "value": 4300
+    },
+    {
+        "name": "Intel Celeron G4900T",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8256",
+        "value": 4500
+    },
+    {
+        "name": "Intel Celeron G4920",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Platinum 8280",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 6244",
+        "value": 3000
+    },
+    {
+        "name": "Intel Pentium Gold G5400",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 6244",
+        "value": 1700
+    },
+    {
+        "name": "Intel Pentium Gold G5400T",
+        "value": 1700
+    },
+    {
+        "name": "Intel Xeon Platinum 8280",
+        "value": 1700
+    },
+    {
+        "name": "Intel Pentium Gold G5500",
+        "value": 3800
+    },
+    {
+        "name": "Intel Core i3-8100T",
+        "value": 1700
+    },
+    {
+        "name": "Intel Pentium Gold G5600",
+        "value": 3700
+    },
+    {
+        "name": "Intel Pentium Gold G5500T",
+        "value": 2800
+    },
+    {
+        "name": "Intel Xeon Gold 6244",
+        "value": 3800
+    },
+    {
+        "name": "Intel Core i3-8350K",
+        "value": 3700
+    },
+    {
+        "name": "Intel Core i3-8300T",
+        "value": 3700
+    },
+    {
+        "name": "Intel Core i5-9600K",
+        "value": 2800
+    },
+    {
+        "name": "Intel Core i3-8300",
+        "value": 3000
+    },
+    {
+        "name": "Intel Core i9-9900K",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 3700
+    },
+    {
+        "name": "Intel Core i7-9700K",
+        "value": 3800
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2124",
+        "value": 3800
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "value": 3800
+    },
+    {
+        "name": "Intel Core i5-8600T",
+        "value": 2800
+    },
+    {
+        "name": "Intel Core i3-8300",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6126",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5120",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5120",
+        "value": 3400
+    },
+    {
+        "name": "Intel Core i3-8100",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4116",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon E-2136",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5118",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4116",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8160",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5120",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5118",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon E-2134",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 2100
+    },
+    {
+        "name": "Intel Xeon E-2126G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2124G",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2174G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4116",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon E-2144G",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5118",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon E-2146G",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon E-2176G",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Silver 4114T",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Silver 4114T",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4114",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Silver 4114",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon W-2104",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon W-2102",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Silver 4112",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Silver 4114",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon E-2186G",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Silver 4112",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4112",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon W-2195",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon W-2175",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon E3-1275 v6",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4109T",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Silver 4108",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon E-2104G",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon W-2123",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon W-2133",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4109T",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4108",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4108",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4109T",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Bronze 3104",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon W-2155",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8176",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Bronze 3104",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Bronze 3106",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Bronze 3106",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6130",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8153",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Gold 6140M",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8176",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Platinum 8153",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4114",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6126",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Gold 6140",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6140M",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 4200
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 5117",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6130",
+        "value": 4300
+    },
+    {
+        "name": "Intel Xeon Gold 6132",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6132",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 9654",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8480+",
+        "value": 3000
+    },
+    {
+        "name": "AMD EPYC 7773X",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 7763",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7763",
+        "value": 3700
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7742",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8454H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8450H",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6210U",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8460H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8444H",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6416H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5418Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6458Q",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4416+",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6444Y",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6438Y+",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5418N",
+        "value": 2800
+    },
+    {
+        "name": "Intel Xeon Gold 5418Y",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6438N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4410Y",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Silver 4410T",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5416S",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 6434",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3000
+    },
+    {
+        "name": "UltraSPARC-IV+",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5318Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8360HL",
+        "value": 4150
+    },
+    {
+        "name": "Intel Xeon Platinum 8380H",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8354H",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8376H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330H",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8376HL",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Platinum 8353H",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5318H",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5320H",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6348H",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8253",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Platinum 8380HL",
+        "value": 3100
+    },
+    {
+        "name": "Intel Xeon Gold 5222",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6226",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4214R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4210R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8280",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6250",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6254",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6234",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8280",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6234",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6256",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6256",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6256",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6230R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6254",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6226",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6246",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6226",
+        "value": 3500
+    },
+    {
+        "name": "AMD EPYC 7H12",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6246",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8380HL",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6128",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4112",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6140",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6130",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8260",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6154",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8168",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8260M",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5117",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8176",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5122",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6130",
+        "value": 4600
+    },
+    {
+        "name": "Intel Xeon Silver 4110",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4108",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5118",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8160",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8180",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8160",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Silver 4116",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6150",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 3900
+    },
+    {
+        "name": "AMD EPYC 9654",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 9754",
+        "value": 3200
+    },
+    {
+        "name": "AMD EPYC 7413",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6442Y",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6438Y+",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6448H",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8460Y+",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4410Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6330",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5315Y",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 2800
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5315Y",
+        "value": 2800
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8362",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 2800
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5320",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6354",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Silver 4316",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6330N",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4314",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8380",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8358",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5317",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Platinum 8368",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Platinum 8360Y",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 5317",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6338",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4310",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4309Y",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon E-2224",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6338N",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6326",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6342",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6336Y",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6348",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3000
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6240R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 5117",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5117",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6252",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 5117",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6140",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 6240R",
+        "value": 3800
+    },
+    {
+        "name": "Intel Xeon Gold 5220R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 3200
+    },
+    {
+        "name": "Intel Xeon Gold 6240R",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6142",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6148",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 5220R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6226R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6248R",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Platinum 8280L",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5218R",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Platinum 8268",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 5220",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4215",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Silver 4208",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6230",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Platinum 8268",
+        "value": 3300
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 5220",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4215",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Gold 6254",
+        "value": 3600
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Gold 5215",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4208",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6254",
+        "value": 4500
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 4400
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 4100
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4216",
+        "value": 3900
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4110",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6240",
+        "value": 1900
+    },
+    {
+        "name": "Intel Xeon Silver 4210",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 5218",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4208",
+        "value": 3500
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Gold 6248",
+        "value": 3400
+    },
+    {
+        "name": "Intel Xeon Silver 4214",
+        "value": 4000
+    },
+    {
+        "name": "Intel Xeon Silver 4208",
+        "value": 3700
+    },
+    {
+        "name": "Intel Xeon Gold 6242",
+        "value": 3900
+    }
+]
