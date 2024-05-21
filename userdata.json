@@ -1,18 +1,28 @@
 {
   "dataset":[
     {
-      "Max_MHz": 3900,
-      "Nominal": 2000,
-      "Base_Threads": 80,
-      "Enabled_Cores": 40,
-      "Enabled_Chips": 2,
-      "Threads_Core": 2,
-      "Max_MHz_percent": 0.75,
-      "Nominal_percent":0.80,
-      "Base_Threads_percent":0.75,
-      "Enabled_Cores_percent":0.80,
-      "Threads_Core_percent":0.85,
-      "User_Core":1453
+      "NAME":"Max_MHz",
+      "value":"4900"
+    },
+    {
+      "NAME":"Nominal",
+      "value":"4100"
+    },
+    {
+      "NAME":"Base_Threads",
+      "value":"480"
+    },
+    {
+      "NAME":"Enabled_Chips",
+      "value":"16"
+    },
+    {
+      "NAME":"Enabled_Cores",
+      "value":"480"
+    },
+    {
+      "NAME":"Threads_Core",
+      "value":"2"
     }
   ]
 }
