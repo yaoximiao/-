@@ -7,11 +7,11 @@
       "Enabled_Cores": 40,
       "Enabled_Chips": 2,
       "Threads_Core": 2,
-      "Max_MHz_percent": 75%,
-      "Nominal_percent":80%,
-      "Base_Threads_percent":75%,
-      "Enabled_Cores_percent":80%,
-      "Threads_Core_percent":85%,
+      "Max_MHz_percent": 0.75,
+      "Nominal_percent":0.80,
+      "Base_Threads_percent":0.75,
+      "Enabled_Cores_percent":0.80,
+      "Threads_Core_percent":0.85,
       "User_Core":1453
     }
   ]
