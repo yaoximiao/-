@@ -23,6 +23,10 @@
     {
       "NAME":"Threads_Core",
       "value":"2"
+    },
+    {
+      "NAME":"Total_Score",
+      "value":"1453"
     }
   ]
 }
